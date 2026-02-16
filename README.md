@@ -83,8 +83,6 @@ Results from Reflection baseline (3 episodes/game) match paper's low performance
 ## Notes
 - Prompts approximate paper's; adjust for exact replication.
 - ROMs: Cloned automatically; ensure paths match if running locally.
-- GitHub URL: https://github.com/kasa_varun/mc-dml-baseline-replication (update with your username).
-- Author: Varun Kasa (@kasa_varun)
 
 For issues, open a GitHub issue.
 ```
